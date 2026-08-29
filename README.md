@@ -1,6 +1,6 @@
 # Comparative Life Cycle Assessment of Potato Cultivation Systems
 
-**Peer-reviewed LCA | Agriculture | Primary Farm Data | SimaPro | ecoinvent**
+**Peer-reviewed LCA | Primary Data from 120 Farms | Agricultural LCI | Cultivation-System Comparison | SimaPro | ecoinvent**
 
 This repository provides a concise technical summary of my peer-reviewed comparative life cycle assessment of potato cultivation systems.
 
@@ -36,25 +36,26 @@ The study compared alternative cultivation systems using primary farm-level inve
 
 ## Primary Life Cycle Inventory
 
-A major feature of this study was development of the foreground inventory from primary farm data.
+A key strength of this study was the development of a foreground life cycle inventory based on primary farm data.
 
-Data were collected through face-to-face questionnaires covering 120 farms.
+Data were collected through face-to-face questionnaires from 120 potato farms, including 60 semi-mechanized and 60 traditional farms.
 
-Inventory variables included:
+The primary inventory covered:
 
-- irrigation water
-- electricity
-- fuel
-- manure
-- urea
-- triple superphosphate
-- potassium sulfate
-- pesticides
-- farm operations
+irrigation water
+electricity and fuel use
+manure
+urea
+triple superphosphate
+potassium sulfate
+pesticides
+farm operations
 
-Where direct environmental emissions could not be measured, established emission-factor approaches from the scientific literature were used.
+Where direct measurement of environmental emissions was not feasible, the study applied established emission-factor methods from the scientific literature.
 
-Background data for upstream agricultural inputs and energy carriers were supplemented using ecoinvent.
+Primary farm data were then complemented with ecoinvent background data for upstream processes such as agricultural input production and energy carriers.
+
+This makes the study useful not only as a comparative LCA, but also as an example of building an LCI from field data and linking it with secondary background databases.
 
 ---
 
