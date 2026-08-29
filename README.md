@@ -13,7 +13,7 @@ This repository provides a concise technical summary of my peer-reviewed compara
 
 ## Research Question
 
-How does the level and form of agricultural mechanization affect the environmental performance of potato production?
+How does the environmental performance of semi-mechanized potato cultivation compare with traditional cultivation on a consistent life-cycle basis?
 
 The study compared alternative cultivation systems using primary farm-level inventory data and life cycle assessment.
 
@@ -36,33 +36,35 @@ The study compared alternative cultivation systems using primary farm-level inve
 
 ## Primary Life Cycle Inventory
 
-![Potato cultivation system boundary](figures/cultivation-system_boundary.png)
+A key strength of this study was the development of a **foreground life cycle inventory based on primary farm data**.
 
-A key strength of this study was the development of a foreground life cycle inventory based on primary farm data.
+Data were collected through **face-to-face questionnaires from 120 potato farms**, including **60 semi-mechanized and 60 traditional farms**.
 
-Data were collected through face-to-face questionnaires from 120 potato farms, including 60 semi-mechanized and 60 traditional farms.
+The primary inventory included irrigation water, electricity and fuel use, manure, urea, triple superphosphate, potassium sulfate, pesticides, and farm operations.
 
-The primary inventory covered:
+Where direct measurement of environmental emissions was not feasible, the study used **established emission-factor methods from the scientific literature**.
 
-irrigation water
-electricity and fuel use
-manure
-urea
-triple superphosphate
-potassium sulfate
-pesticides
-farm operations
+Primary farm data were then complemented with **ecoinvent background data** for upstream processes such as agricultural input production and energy carriers.
 
-Where direct measurement of environmental emissions was not feasible, the study applied established emission-factor methods from the scientific literature.
+### Inventory Data Sources
 
-Primary farm data were then complemented with ecoinvent background data for upstream processes such as agricultural input production and energy carriers.
+| Inventory component | Data approach |
+|---|---|
+| Farm operations | Primary farm data |
+| Irrigation | Primary farm data |
+| Electricity & fuel | Primary farm data |
+| Fertilizers & manure | Primary farm data |
+| Pesticides | Primary farm data |
+| Field emissions | Literature-based emission factors |
+| Upstream processes | ecoinvent background data |
 
-This makes the study useful not only as a comparative LCA, but also as an example of building an LCI from field data and linking it with secondary background databases.
+This study therefore demonstrates not only comparative LCA, but also the development of a **field-based foreground inventory and its integration with secondary background datasets**.
 
 ---
 
 ## System Boundary
 
+![Potato cultivation system boundary](figures/cultivation-system_boundary.png)
 
 The farm-gate boundary included activities such as:
 
