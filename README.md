@@ -36,7 +36,7 @@ The study compared alternative cultivation systems using primary farm-level inve
 
 ## Primary Life Cycle Inventory
 
-
+![Potato cultivation system boundary](figures/cultivation-system_boundary.png)
 
 A key strength of this study was the development of a foreground life cycle inventory based on primary farm data.
 
