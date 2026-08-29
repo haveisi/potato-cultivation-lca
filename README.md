@@ -61,7 +61,7 @@ This makes the study useful not only as a comparative LCA, but also as an exampl
 
 ## System Boundary
 
-![Potato cultivation system boundary](figures/cultivation_system_boundary.png)
+![Potato cultivation system boundary](figures/cultivation system_boundary.png)
 
 The farm-gate boundary included activities such as:
 
