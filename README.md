@@ -36,6 +36,8 @@ The study compared alternative cultivation systems using primary farm-level inve
 
 ## Primary Life Cycle Inventory
 
+
+
 A key strength of this study was the development of a foreground life cycle inventory based on primary farm data.
 
 Data were collected through face-to-face questionnaires from 120 potato farms, including 60 semi-mechanized and 60 traditional farms.
